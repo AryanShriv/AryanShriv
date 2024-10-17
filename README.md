@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack and have extensive knowledge about all the stages of SDLC I.e. I have worked as a UI/UX Designer, Developer,  QA and Project Management Roles.<br>👯 I’m looking to collaborate on Web Development Projects or Some great open-source contribution.<br>🌱 I’m currently learning everything everyday something new at my work.<br>💬 Talk to me about web dev tech, or at general technology revolving around globe.<be>
 
+# 🧑‍💻 Technologies Used:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanShriv&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
