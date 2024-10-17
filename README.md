@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack and have extensive knowledge about all the stages of SDLC I.e. I have worked as a UI/UX Designer, Developer,  QA and Project Management Roles.<br>👯 I’m looking to collaborate on Web Development Projects or Some great open-source contribution.<br>🌱 I’m currently learning everything everyday something new at my work.<br>💬 Talk to me about web dev tech, or at general technology revolving around globe.<br>
+🔭 I’m currently working on MERN Stack and have extensive knowledge about all the stages of SDLC I.e. I have worked as a UI/UX Designer, Developer,  QA and Project Management Roles.<br>👯 I’m looking to collaborate on Web Development Projects or Some great open-source contribution.<br>🌱 I’m currently learning everything everyday something new at my work.<br>💬 Talk to me about web dev tech, or at general technology revolving around globe.<be>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanShriv&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 # 💻 Tech Stack:
@@ -7,7 +9,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AryanShriv&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AryanShriv&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanShriv&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
